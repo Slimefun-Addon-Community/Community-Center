@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Code of Conduct
+    url: https://github.com/Slimefun-Addon-Community/Community-Center/blob/main/CODE_OF_CONDUCT.md
+    about: Our community standards and guidelines
+  - name: Official Slimefun Discord Server
+    url: https://discord.gg/slimefun
+    about: Chat with us :heart:
