@@ -1,6 +1,14 @@
 # :heart: Community Center
 This repository houses a few important resources for community members and those who want to contribute or join.
 
+## :world_map: Helpful resources
+* [How to join](#handshake-how-to-join) (Become a member of this organization)
+* [Code of Conduct](https://github.com/Slimefun-Addon-Community/Community-Center/blob/main/CODE_OF_CONDUCT.md) (Our community guidelines)
+* [Slimefun Addon Template](https://github.com/Slimefun/Addon-Template) (Template for creating a Slimefun addon)
+* [Addon Tutorial](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide) (Developer Guide)
+* [Javadocs](https://slimefun.github.io/javadocs/Slimefun4/docs/overview-summary.html) (Code documentation)
+* [SonarCloud](https://sonarcloud.io/organizations/slimefun-addon-community/projects?sort=-analysis_date) (Code Quality monitoring)
+
 ## :handshake: How to join
 The Slimefun Addon Community is an open source community centered around the [@Slimefun](https://github.com/Slimefun/) project.
 
@@ -18,6 +26,7 @@ But don't get intimidated, this is an open and inclusive community, anyone is we
 You don't have to become a member, it is completely optional.<br>
 But members of this organization get a few benefits for their open-source contributions.
 * Access to our private repositories (templates, documents and other stuff)
+* Access to our [sonarcloud.io](https://sonarcloud.io/organizations/slimefun-addon-community/projects?sort=-analysis_date) page for automated code analysis
 * The ability to collaborate with other members (Create teams, invite other members into your project)
 * Gathering feedback from other members (Need a second opinion? Request a pull request review from other organization members!)
 
