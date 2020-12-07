@@ -4,7 +4,7 @@ about: You want to join this organization and become a member? Tell us a bit abo
   yourself!
 title: 'Application letter: USERNAME'
 labels: ":black_nib: Application letter"
-assignees: TheBusyBiscuit
+assignees: TheBusyBiscuit, WalshyDev
 
 ---
 
