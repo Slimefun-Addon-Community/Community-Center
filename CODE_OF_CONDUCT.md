@@ -54,7 +54,7 @@ Moderators will only step in if explicitly requested or a violation is reported.
 Each individual repository owners are responsible for the moderation of their own project(s).
 
 You can see a list of people who are recognized as "moderators" for this community here:<br>
-https://github.com/orgs/Slimefun-Addon-Community/teams/moderators
+https://github.com/orgs/Slimefun/people
 
 ## :wrench: Enforcement
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
