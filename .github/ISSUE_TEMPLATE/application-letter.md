@@ -12,11 +12,7 @@ assignees: TheBusyBiscuit
 <!-- WRITE BELOW THIS LINE -->
 
 
-## :question: Why do you want to join this organization?
-<!-- WRITE BELOW THIS LINE -->
-
-
-## :flashlight: What do you want to share or provide to other members?
+## :question: Why do you want to join this community?
 <!-- WRITE BELOW THIS LINE -->
 
 
@@ -24,13 +20,17 @@ assignees: TheBusyBiscuit
 <!-- WRITE BELOW THIS LINE -->
 
 
+## :flashlight: What can other members expect from you?
+<!-- WRITE BELOW THIS LINE -->
+
+
 ## :card_index_dividers: Which projects do you want to work or collaborate on?
 <!-- WRITE BELOW THIS LINE -->
 
 
-### :link: Your Slimefun addons (with links)
+## :link: Your Slimefun addons (with links)
 <!-- WRITE BELOW THIS LINE -->
 
 
-### :headphones: Discord username (optional)
+## :headphones: Discord username (optional)
 <!-- WRITE BELOW THIS LINE -->
