@@ -11,7 +11,7 @@ This repository houses a few important resources for community members and those
 
 ## :headphones: Discord
 You can find Slimefun's community on Discord and connect with thousands of other members from the community.<br>
-The Slimefun Addon Community also has it's own discord server for any of our projects too!
+The Slimefun Addon Community also has its own discord server for any of our projects too!
 
 <p align="center">
   <a href="https://discord.gg/slimefun">
