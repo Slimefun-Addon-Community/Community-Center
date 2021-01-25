@@ -9,6 +9,19 @@ This repository houses a few important resources for community members and those
 * [Javadocs](https://slimefun.github.io/javadocs/Slimefun4/docs/overview-summary.html) (Code documentation)
 * [SonarCloud](https://sonarcloud.io/organizations/slimefun-addon-community/projects?sort=-analysis_date) (Code Quality monitoring)
 
+## :headphones: Discord
+You can find Slimefun's community on Discord and connect with thousands of other members from the community.<br>
+The Slimefun Addon Community also has its own discord server for any of our projects too!
+
+<p align="center">
+  <a href="https://discord.gg/slimefun">
+    <img src="https://discordapp.com/api/guilds/565557184348422174/widget.png?style=banner3" alt="Discord Invite"/>
+  </a>
+  <a href="https://discord.gg/V2cJR9ADFU">
+    <img src="https://discordapp.com/api/guilds/799294416196075572/widget.png?style=banner3" alt="Discord Invite"/>
+  </a>
+</p>
+
 ## :handshake: How to join
 The Slimefun Addon Community is an open source community centered around the [@Slimefun](https://github.com/Slimefun/) project.
 
